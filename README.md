@@ -1,4 +1,5 @@
-ASP.NET C# için Regex (Regular Expressions) Notları – 1
+#ASP.NET C# için Regex (Regular Expressions) Notları – 1 /br
+
 Regular Expressions, yani  düzenli İfadeler, string bir değişkenin ya da bir metnin, verilen kalıpla eşleşip eşleşmediğini kontrol etmek için kullanılan bir modeldir. Aynı zamanda, bu ifadeler sayesinde, bir metnin içinde, belirli desenlere uyan detaylı aramalar yapabilir ya da belli kurallara uyan alt metinler elde edilebilir.
 
 Bu makalede öncelikle RegularExpressions kütüphanesine göz atıp, c# da kullanımına bakacağız. Daha sonra RegularExpressions diline ait özel karakterlere ve son olarak da sık kullanılan ifade gruplarına bakacağız.
